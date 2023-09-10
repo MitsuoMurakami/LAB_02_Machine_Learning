@@ -8,6 +8,7 @@ Lectura de datos extraída de: https://github.com/bnsreenu/python_for_microscopi
 
 - pip install matplotlib
 - pip install pandas
-- 
+- pip install scikit-learn
+
 
 
